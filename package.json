@@ -1,0 +1,26 @@
+{
+    "name": "mongoose",
+    "version": "1.0.0",
+    "description": "Mongoose Database Interface using MangoDB, Express JS",
+    "main": "index.js",
+    "scripts": {
+        "devStart": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alexbalak21/Mongoose.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alexbalak21/Mongoose/issues"
+    },
+    "homepage": "https://github.com/alexbalak21/Mongoose#readme",
+    "dependencies": {
+        "mongoose": "^6.1.5"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
